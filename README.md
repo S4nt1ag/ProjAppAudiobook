@@ -10,6 +10,10 @@ Este projeto foi criado durante o intensivo da hashtag, utilizando HTML, CSS e, 
 ![image](https://github.com/S4nt1ag/ProjAppAudiobook/assets/127254370/60eaded0-83c7-4f59-92ea-d97fb85aa803)
 
 
+# Veja voce mesmo
+
+* https://audiobook-player-chi.vercel.app/
+
 # Clonar
 
 ```
